@@ -1,3 +1,0 @@
-C:/Users/arne/Documents/2022-2023/chess/cmake-build-release-mingw/CMakeFiles/chess.dir
-C:/Users/arne/Documents/2022-2023/chess/cmake-build-release-mingw/CMakeFiles/edit_cache.dir
-C:/Users/arne/Documents/2022-2023/chess/cmake-build-release-mingw/CMakeFiles/rebuild_cache.dir
