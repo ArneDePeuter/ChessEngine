@@ -1,1 +1,1 @@
-# chessEngine (with AI) using bitboards
+# ChessEngine using bitboards with Mini-Max
